@@ -1,0 +1,37 @@
+.topnav
+{
+    background-color: black;
+    overflow: hidden;
+    position: fixed;
+    width: 99%;
+    height: 80px;
+    
+}
+
+.topnav a{
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.topnav p{
+    color: aliceblue;
+    margin-left: 80%;
+    font-size: 23pt;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.img1{
+    border-radius: 50%;
+    border-collapse: collapse;
+    width: 350px;
+    height: 350;
+    margin-top: 100px;
+    margin-left: 70%;
+}
